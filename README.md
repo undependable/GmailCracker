@@ -1,4 +1,4 @@
-# EvilGmail
+# GmailCracker
 Have a gmail password cracked
 
 Allowes to:
