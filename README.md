@@ -1,23 +1,5 @@
 # EvilGmail
-
-
-                __
-               / _\ #
-               \c /  #
-               / \___ #
-               \`----`#==>  
-               |  \  #
-    ,%.-"""---'`--'\#_
-   %%/             |__`\
-  .%'\     |   \   /  //
-  ,%' >   .'----\ |  [/
-     < <<`       ||
-      `\\\       ||
-        )\\      )\
-^^^jgs^^"""^^^^^^""^^^^^^^^^^
-
-
-           Have a gmail password cracked
+Have a gmail password cracked
 
 Allowes to:
 - Crack a gmail password.
